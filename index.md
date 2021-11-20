@@ -1,4 +1,4 @@
-## Welcome to latstars Page
+## Welcome to latstars Page ([中文主页](https://latstars.github.io/index_zh))
 
 I am a master student in Peking University.
 
