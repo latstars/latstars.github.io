@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to latstars Page
 
 I am a master student in Peking University.
 
@@ -31,9 +31,9 @@ I am a master student in Peking University.
 ## Award
 - Peking University    &emsp;    **Academic Scholarship**    &emsp;    Oct. 2020
 - Beijing University of Posts and Telecommunications    &emsp;    **Outstanding Senior Thesis**    &emsp;    Jul. 2019 
-- Beijing University of Posts and Telecommunications    &emsp;    **National Scholarship (Award Top 1\%)**    &emsp;    Nov. 2017 
-- Beijing University of Posts and Telecommunications    &emsp;    **National Encouragement Scholarship**    &emsp;    Nov. 2016 \& Nov. 2018 
-- Beijing University of Posts and Telecommunications    &emsp;    **Merit Student**    &emsp;    Nov. 2016 \& Nov. 2018 
+- Beijing University of Posts and Telecommunications    &emsp;    **National Scholarship (Award Top 1%)**    &emsp;    Nov. 2017 
+- Beijing University of Posts and Telecommunications    &emsp;    **National Encouragement Scholarship**    &emsp;    Nov. 2016 & Nov. 2018 
+- Beijing University of Posts and Telecommunications    &emsp;    **Merit Student**    &emsp;    Nov. 2016 & Nov. 2018 
 - China Computer Federation    &emsp;    **Outstanding University Students**    &emsp;    Oct. 2018 
 
 ## Contact
