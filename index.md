@@ -6,7 +6,7 @@ I am a master student in Peking University.
 ## Publication
 - [DADA: Differentiable Automatic Data Augmentation](https://link.springer.com/chapter/10.1007/978-3-030-58542-6_35) ([DADA](https://github.com/VDIGPKU/DADA)) 
 
-	**Yonggang Li***, **Guosheng Hu***, Yongtao Wang, Timothy Hospedales, Neil M. Robertson, Yongxin Yang
+	**Yonggang Li\***, **Guosheng Hu\***, Yongtao Wang, Timothy Hospedales, Neil M. Robertson, Yongxin Yang
 	
   European Conference on Computer Vision (**ECCV 2020**, * donates equal contribution)
 
@@ -26,9 +26,15 @@ I am a master student in Peking University.
 
 	Xiaoran Qin, Yafeng Zhou, Yonggang Li, Siwei Wang, Yongtao Wang, and Zhi Tang
 
-  In Proceedings of the ACM Turing Celebration Conference - China (ACM TURC '19)
+  In Proceedings of the ACM Turing Celebration Conference - China (**ACM TURC '19**)
 
 ## Award
+- Peking University    &emsp;    **Academic Scholarship**    &emsp;    Oct. 2020
+- Beijing University of Posts and Telecommunications    &emsp;    **Outstanding Senior Thesis**    &emsp;    Jul. 2019 
+- Beijing University of Posts and Telecommunications    &emsp;    **National Scholarship (Award Top 1\%)**    &emsp;    Nov. 2017 
+- Beijing University of Posts and Telecommunications    &emsp;    **National Encouragement Scholarship**    &emsp;    Nov. 2016 \& Nov. 2018 
+- Beijing University of Posts and Telecommunications    &emsp;    **Merit Student**    &emsp;    Nov. 2016 \& Nov. 2018 
+- China Computer Federation    &emsp;    **Outstanding University Students**    &emsp;    Oct. 2018 
 
 ## Contact
-Email latstars _at_ qq  _dot_ com.
+Email latstars  _at_ qq  _dot_ com.
