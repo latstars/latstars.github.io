@@ -205,6 +205,7 @@
 
           </div>
           
+    <div class="comments" id="gitalk-container"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -377,6 +378,26 @@
   
 
   
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
+
+<script>
+NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
+    var gitalk = new Gitalk({
+      clientID    : '7ebbd99096693d5852b5',
+      clientSecret: '7e663d9a0b9ce453728c5598e1d4167610fa7942',
+      repo        : 'https://github.com/latstars/latstars.github.io',
+      owner       : 'latstars',
+      admin       : ['latstars'],
+      id          : 'a676607444a8bc8b150c9a3aff884e61',
+        language: 'zh-CN',
+      distractionFreeMode: true
+    });
+    gitalk.render('gitalk-container');
+  }, window.Gitalk);
+});
+</script>
 
 </body>
 </html>
