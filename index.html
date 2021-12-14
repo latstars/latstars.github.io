@@ -160,6 +160,90 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN,en,default">
+    <link itemprop="mainEntityOfPage" href="https://latstars.github.io/2021/12/14/Average-Precision/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="latstars">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="latstars">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2021/12/14/Average-Precision/" class="post-title-link" itemprop="url">Average Precision</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2021-12-14 20:14:07 / 修改时间：21:03:44" itemprop="dateCreated datePublished" datetime="2021-12-14T20:14:07+08:00">2021-12-14</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/" itemprop="url" rel="index"><span itemprop="name">论文阅读</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h1 id="Average-Precision-AP"><a href="#Average-Precision-AP" class="headerlink" title="Average Precision (AP)"></a>Average Precision (AP)</h1><p>本文翻译自<a target="_blank" rel="noopener" href="https://sanchom.wordpress.com/tag/average-precision/">Average Precision</a>，如有侵权请联系博主删除。<br>计算机中的信息检索系统（如搜索引擎）性能评估一般包含两部分：</p>
+<ol>
+<li>检索出来的结果和我们的查询有多么相关？（precision，即精确率）</li>
+<li>该系统从数据库中检索出来的相关的结果有多少，即检索出来的正确结果在整个数据库中正确结果的比例是多少？（recall，即召回率）</li>
+</ol>
+<p>对于不熟悉的读者，我们将解释什么是精确率（precision）和召回率（recall）。对于哪些熟悉的读者，我们将解释该领域中在比较精确率-召回率曲线时候的一些困惑。</p>
+<h2 id="天鹅和飞机"><a href="#天鹅和飞机" class="headerlink" title="天鹅和飞机"></a>天鹅和飞机</h2><p>假定我们拥有一堆包含飞机和天鹅的照片集合。</p>
+<img src="https://sanchom.files.wordpress.com/2011/08/collection.png" align="center"/>
+
+<p>我们希望我们的系统可以检索出所有的飞机图片，但是不要检索出任何天鹅的图片。<br>给定一个系统检索成果，我们可以定义四个指标：</p>
+<p>True Positives：系统正确检索出来的飞机图片集合</p>
+<p>True Negatives：系统正确地没有检索出来的天鹅图片集合</p>
+<p>False Positives：系统错误地将天鹅图片检索出来而认为是飞机的天鹅图片集合</p>
+<p>False Negatives：系统错误地将飞机图片没有检索出来而认为是天鹅的飞机图片结合</p>
+<img src="https://sanchom.files.wordpress.com/2011/08/fptp.png" align="center">
+
+<p>使用上述定义的指标，在上面的图例中，这里拥有三个True Positives和一个False Positive。两个False Negatives（系统没有返回的飞机图片）和四个True Negatives（系统没有检索返回的天鹅图片）。</p>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN,en,default">
     <link itemprop="mainEntityOfPage" href="https://latstars.github.io/2021/12/12/%E5%8D%81%E4%BA%8C%E6%9C%88%E5%8D%81%E4%BA%8C%E6%97%A5/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -353,7 +437,7 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2021-12-13 19:26:10" itemprop="dateModified" datetime="2021-12-13T19:26:10+08:00">2021-12-13</time>
+                <time title="修改时间：2021-12-14 14:30:47" itemprop="dateModified" datetime="2021-12-14T14:30:47+08:00">2021-12-14</time>
               </span>
 
           
@@ -856,7 +940,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">8</span>
+          <span class="site-state-item-count">9</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
